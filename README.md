@@ -80,5 +80,5 @@ Payment Frequency	6M
 Coupon	0.09125
 
 
-You can find more details at
-https://finpricing.com/lib/IrSwap.html
+Reference:
+https://finpricing.com/knowledge.html
